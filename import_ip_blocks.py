@@ -10,7 +10,7 @@ import sys
 ########################################
 
 dbUser = "ip-geo"
-dbPassword = "ipgeoBr0#"
+dbPassword = "changeme#"
 dbHost = "localhost"
 dbInstance = "ip-geo"
 dbTable = "ip_blocks"
